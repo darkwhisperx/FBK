@@ -57,7 +57,6 @@
           <br>
           <body id="ust">
             <a href="#ust">Sayfa Başına Git </a>
-          </body>
-
+          </body
     </body>
 </html>
